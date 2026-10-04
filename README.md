@@ -38,8 +38,8 @@ FELICITĂRI! Jucătorul X a câștigat!
 ## Repository Structure
 
 ```text
-matlab-tic-tac-toe/
-├── x_si_0_final.m       # Main script containing game loop and helper sub-functions
+Tic-Tac-Toe-MATLAB/
+├── tic_tac_toe.m        # Main script containing game loop and helper sub-functions
 └── README.md            # Technical documentation
 ```
 
@@ -53,15 +53,15 @@ matlab-tic-tac-toe/
 ### Running the Game
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gaedarius3/matlab-tic-tac-toe.git
-   cd matlab-tic-tac-toe
+   git clone https://github.com/gaedarius3/Tic-Tac-Toe-MATLAB.git
+   cd Tic-Tac-Toe-MATLAB
    ```
 
 2. **Run in MATLAB:**
-   * Open MATLAB and set the current folder to the cloned repository.
+   * Open MATLAB and navigate to the cloned repository directory.
    * In the Command Window, execute:
      ```matlab
-     x_si_0_final
+     tic_tac_toe
      ```
 
 3. **Play:**
