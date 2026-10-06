@@ -40,6 +40,8 @@ FELICITĂRI! Jucătorul X a câștigat!
 ```text
 Tic-Tac-Toe-MATLAB/
 ├── tic_tac_toe.m        # Main script containing game loop and helper sub-functions
+├── .gitignore           # Ignored temporary and autosave files
+├── LICENSE              # MIT License
 └── README.md            # Technical documentation
 ```
 
@@ -66,3 +68,9 @@ Tic-Tac-Toe-MATLAB/
 
 3. **Play:**
    * Enter row indices (`1-3`) and column indices (`1-3`) when prompted by the CLI.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

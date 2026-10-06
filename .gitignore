@@ -1,0 +1,22 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.bak
+*~
+
+# MATLAB figure & live script autosaves
+*.fig.autosave
+*.mlx.autosave
+
+# MATLAB project & local user settings
+.SimulinkProject/
+_ReSharper*/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE configurations
+.vscode/
+.idea/
